@@ -1,4 +1,4 @@
-# 🤗🤑😊Emoji-Game😀😁🫠
+# 🤗🤑😊Emoji-Game😀😁🫠😶‍🌫️
 
 Just a Basic game to learn JavaScript.
 
